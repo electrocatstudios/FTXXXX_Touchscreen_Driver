@@ -1,5 +1,5 @@
 # FTXXXX_Touchscreen_Driver
-Golang bindings for touchscreen implementations for FT62xx and FT5x06 touchscreens
+Go bindings for touchscreen implementations for FT62xx and FT5x06 touchscreens
 
 ## Usage
 
@@ -10,7 +10,7 @@ go get github.com/electrocatstudios/FTXXX_Touchscreen_Driver
 Then in your file include the following:
 
 ```
-import "github.com/electrocatstudios/FTXXXX_Touchscreen_Driver/touchscreen"
+import touchscreen "github.com/electrocatstudios/FTXXXX_Touchscreen_Driver"
 ```
 
 ## Code Example
