@@ -28,7 +28,7 @@ if numTouches > 0 {
 
 ## Note on coordinates
 It may be necessary to translate the points received. The position of the points is presented in portrait mode so you may need to rotate depending on your screen orientation. On the ili9341 screen in landscape mode (for example) the points are as follows:
-
+```
 (0,320)                   (0,0)
 X-------------------------X
 |                         |
@@ -38,3 +38,4 @@ X-------------------------X
 |                         |
 X-------------------------X
 (240,320)                 (240,0)
+```
