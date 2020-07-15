@@ -53,3 +53,6 @@ X-------------------------X
 X-------------------------X
 (0,480)                 (800,480)
 ```
+
+## Features and Requests
+If you would like to request any other touchscreen support please email hello@electrocatstudios.com, ideally if you can try and find the datasheet for the controller that would help a lot. 
